@@ -3,7 +3,7 @@
 Este repositório foi criado como parte do desafio da DIO com o objetivo de **consolidar conhecimentos sobre EC2** na AWS, **simulando** os principais passos de criação, configuração e gerenciamento de instâncias.
 
 ## Sumário
-- [01 - Planejamento](./01-planejamento.md)
+- [01 - Planejamento]([./01-planejamento.md](https://github.com/barbaramsilveira/SantanderCodeGirls2025/blob/main/01-Planejamento.md))
 - [02 - Criação da Instância](./02-criacao-instancia.md)
 - [03 - Conexão SSH](./03-conexao-ssh.md)
 - [04 - Gerenciamento](./04-gerenciamento.md)
